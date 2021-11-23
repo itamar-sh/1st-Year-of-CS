@@ -1,3 +1,8 @@
+        ### Boggle Game ###
+        
+press "Run" on the "boggle.py" file.
+find words and get points!
+
 1) The game has 3 pages: Welcome Screen,
  Game Screen and Finish Screen.
 2) While playing the user can chose whichever
