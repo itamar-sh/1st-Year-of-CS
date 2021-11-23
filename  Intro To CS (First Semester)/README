@@ -1,0 +1,12 @@
+1) The game has 3 pages: Welcome Screen,
+ Game Screen and Finish Screen.
+2) While playing the user can chose whichever
+ word buttons he likes, than the pressed buttons
+ change their background color.
+3) When moving the mouse over a word button
+ the button change his background color.
+4) The user can click on the Delete button to
+erase the last button he pressed, he can do it until all the
+ pressed buttons are erased. The colors are changed accordingly.
+5) When the 3 minutes is over the score of the last game
+ will be shown with the highest score of the last games.
